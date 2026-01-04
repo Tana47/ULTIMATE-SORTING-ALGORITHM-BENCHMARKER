@@ -111,7 +111,7 @@ Thanks for using one of my first publicly released projects!
 If you have any complaints, suggestions, or feedback, please feel 
 free to contact me at my 
 
-GitHub    Tanay47Reddy
+GitHub    https://github.com/Tana47
 LinkedIn  www.linkedin.com/in/tanay-reddy-a76a80385
 Instagram https://www.instagram.com/tanay_reddy_?igsh=MThleWdtYzIxdDVnYw%3D%3D&utm_source=qr
 ========================================================================
